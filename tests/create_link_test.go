@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"short_link_library/sdk"
+	"github.com/kurama784/sts_short_link_go_sdk/sdk"
 )
 
 func TestLinkCreate(t *testing.T) {
